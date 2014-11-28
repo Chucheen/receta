@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5da3fa39-119c-4afb-9a4f-4effbb04d075" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
     </list>
     <ignored path="r_chef_branch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="4" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="950">
+            <state line="24" column="4" selection-start="1237" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="47" selection-start="925" selection-end="925" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="1335">
               <folding />
             </state>
           </provider>
@@ -126,6 +135,7 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/app.coffee.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
@@ -654,7 +664,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="4" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.39473686" vertical-offset="0" max-vertical-offset="950">
+        <state line="24" column="4" selection-start="1237" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="47" selection-start="925" selection-end="925" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
